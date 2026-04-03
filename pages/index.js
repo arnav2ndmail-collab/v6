@@ -1208,51 +1208,77 @@ const CSS = `
 .ar-max{font-size:.7rem;color:var(--muted);font-weight:400}
 .ar-pct{font-family:'Space Mono',monospace;font-size:.88rem;font-weight:700;min-width:42px;text-align:right}
 .cbt-app{position:fixed;inset:0;z-index:500;background:#ffffff;display:flex;flex-direction:column}
-/* FORCE WHITE CBT */
-.cbt-app{
-  background:#f5f5f5 !important;
-  color:#000 !important;
-}
-
-/* FIX ALL TEXT */
-.cbt-app *{
-  color:#000 !important;
-}
-
-/* QUESTION PANEL + SIDEBAR */
-.cbt-app .qpanel,
-.cbt-app .sb {
+/* ===== TOP BAR (HEADER) FIX ===== */
+.cbt-top{
   background:#ffffff !important;
   color:#000 !important;
-  border:1px solid #d1d5db;
+  border-bottom:1px solid #d1d5db !important;
 }
 
-/* QUESTION TEXT */
-.qtext{
-  font-size:18px;
-  font-weight:500;
-  line-height:1.6;
+/* remove dark gradient */
+.cbt-top *{
   color:#000 !important;
 }
 
-/* OPTIONS FIX */
-.cbt-app .opt{
+/* timer box */
+.timer{
   background:#ffffff !important;
   color:#000 !important;
   border:1px solid #ccc !important;
 }
 
-/* SELECTED OPTION */
-.cbt-app .opt.sel{
-  background:#dbeafe !important;
-  border:1px solid #2563eb !important;
+/* exit button */
+.exit-b{
+  background:#ef4444 !important;
+  color:#fff !important;
+  border:none !important;
+}
+
+/* ===== RIGHT QUESTION PANEL ===== */
+.sb{
+  background:#ffffff !important;
+  border-left:1px solid #d1d5db !important;
+}
+
+/* navigator title */
+.sb-h{
   color:#000 !important;
 }
 
-/* OPTION LABEL A B C D */
-.olbl{
+/* legend text */
+.sb-leg{
   color:#000 !important;
-  font-weight:600;
+}
+
+/* ===== QUESTION BOXES ===== */
+.qdot{
+  background:#e5e7eb !important;
+  color:#000 !important;
+  border:1px solid #ccc !important;
+}
+
+/* current question */
+.qdot.cur{
+  background:#3b82f6 !important;
+  color:#fff !important;
+}
+
+/* answered */
+.qdot.ans{
+  background:#22c55e !important;
+  color:#fff !important;
+}
+
+/* skipped */
+.qdot.skp{
+  background:#f59e0b !important;
+  color:#fff !important;
+}
+
+/* revealed (practice) */
+.qdot.rev{
+  background:#a855f7 !important;
+  color:#fff !important;
 }
 .cbt-top{background:linear-gradient(135deg,#0b1120,#17083a);border-bottom:1px solid var(--border);padding:10px 19px;display:flex;align-items:center;justify-content:space-between;flex-shrink:0;gap:10px}
 .cbt-body{display:flex;flex:1;overflow:hidden;min-height:0}
