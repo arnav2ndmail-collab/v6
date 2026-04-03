@@ -1,0 +1,1287 @@
+{
+  "id": "jee_main_2026_jan_top111",
+  "title": "JEE Main 2026 Jan \u2014 Top 111 Physics Questions",
+  "subject": "JEE",
+  "source": "Eduniti by Mohit Goenka | IIT KGP",
+  "dur": 240,
+  "mCor": 4,
+  "mNeg": 1,
+  "savedAt": 1743292800001,
+  "questions": [
+    {
+      "qnum": 1,
+      "type": "MCQ",
+      "text": "Keeping the significant figures in view, the sum of the physical quantities 52.01m, 153.2 m and 0.123 m is:",
+      "opts": [
+        "205 m",
+        "205.333 m",
+        "205.33 m",
+        "205.3 m"
+      ],
+      "ans": "D",
+      "hasImage": false
+    },
+    {
+      "qnum": 2,
+      "type": "MCQ",
+      "text": "If \u2208, E and t represent the free space permittivity, electric field and time respectively, then the unit of \u2208E/t will be:",
+      "opts": [
+        "Am",
+        "Am\u00b2",
+        "A/m\u00b2",
+        "A/m"
+      ],
+      "ans": "D",
+      "hasImage": false
+    },
+    {
+      "qnum": 3,
+      "type": "MCQ",
+      "text": "Four persons measure the length of a rod as 20.00 cm, 19.75 cm, 17.01 cm and 18.25 cm. The relative error in the measurement of average length of the rod is:",
+      "opts": [
+        "0.24",
+        "0.18",
+        "0.06",
+        "0.08"
+      ],
+      "ans": "D",
+      "hasImage": false
+    },
+    {
+      "qnum": 4,
+      "type": "INTEGER",
+      "text": "In a screw gauge, the zero of the circular scale lies 3 divisions above the horizontal pitch line when their metallic studs are brought in contact. Using this instrument, thickness of a sheet is measured. If pitch scale reading is 1 mm and circular scale reading is 51, the correct thickness of the sheet is _____ mm. [Assume least count is 0.01 mm]",
+      "opts": [],
+      "ans": "3",
+      "hasImage": false
+    },
+    {
+      "qnum": 5,
+      "type": "INTEGER",
+      "text": "A ball of radius r and density \u03c1 dropped through a viscous liquid of density \u03c3 and viscosity \u03b7 attains its terminal velocity at time t, given by t = A\u03c1\u1d43r\u1d47\u03b7\u1d9c\u03c3\u1d48, where A is a constant and a, b, c and d are integers. The value of (b+c)/(a+d) is:",
+      "opts": [],
+      "ans": "1",
+      "hasImage": false
+    },
+    {
+      "qnum": 6,
+      "type": "MCQ",
+      "text": "When both jaws of vernier calliper touch each other, zero mark of the vernier scale is right to zero mark of main scale, 4th mark on vernier scale coincides with certain mark on main scale. While measuring the length of a cylinder, observer observes 15 divisions on main scale and 5th division of vernier scale coincides with a main scale division. Measured length of cylinder is ______ mm. (Least count of Vernier calliper = 0.1 mm)",
+      "opts": [
+        "15.4",
+        "15.1",
+        "15.5",
+        "15.9"
+      ],
+      "ans": "B",
+      "hasImage": false
+    },
+    {
+      "qnum": 7,
+      "type": "MCQ",
+      "text": "The time period of a simple harmonic oscillator is T = 2\u03c0\u221a(k/m). The measured value of mass (m) is 10 g with an accuracy of 10 mg, and time for 50 oscillations is found to be 60 s using a watch of 2 s resolution. Percentage error in determination of spring constant k is ______ %.",
+      "opts": [
+        "3.43",
+        "3.35",
+        "7.60",
+        "6.76"
+      ],
+      "ans": "D",
+      "hasImage": false
+    },
+    {
+      "qnum": 8,
+      "type": "MCQ",
+      "text": "A river of width 200 m is flowing from west to east with a speed of 18 km/h. A boat, moving with speed of 36 km/h in still water, is made to travel one-round trip (bank to bank of the river). Minimum time taken by the boat for this journey and also the displacement along the river bank are ______ and ______ respectively.",
+      "opts": [
+        "20 s and 100 m",
+        "40 s and 0 m",
+        "40 s and 200 m",
+        "40 s and 100 m"
+      ],
+      "ans": "B",
+      "hasImage": false
+    },
+    {
+      "qnum": 9,
+      "type": "MCQ",
+      "text": "A paratrooper jumps from an aeroplane and opens a parachute after 2 s of free fall and starts decelerating with 3 m/s\u00b2. At 10 m height from ground, while descending with the help of parachute, the speed of paratrooper is 5 m/s. The initial height of the aeroplane is _____ m. (g = 10 m/s\u00b2)",
+      "opts": [
+        "62.5",
+        "92.5",
+        "20",
+        "82.5"
+      ],
+      "ans": "A",
+      "hasImage": false
+    },
+    {
+      "qnum": 10,
+      "type": "MCQ",
+      "text": "A boy thrown a ball into air at 45\u00b0 from the horizontal to land it on a roof of a building of height H. If the ball attains maximum height in 2 s and lands on the building in 3 s after launch, then value of H is _____ m. (g = 10 m/s\u00b2)",
+      "opts": [
+        "20",
+        "10",
+        "25",
+        "15"
+      ],
+      "ans": "D",
+      "hasImage": false
+    },
+    {
+      "qnum": 11,
+      "type": "MCQ",
+      "text": "Water drops fall from a tap on the floor, 5 m below, at regular intervals. At the instant when the sixth drop begins to fall, the height at which the fourth drop will be from the ground is _____ m. (g = 10 m/s\u00b2)",
+      "opts": [
+        "2.5",
+        "4.0",
+        "4.2",
+        "3.8"
+      ],
+      "ans": "B",
+      "hasImage": false
+    },
+    {
+      "qnum": 12,
+      "type": "MCQ",
+      "text": "A particle starts moving from time t = 0 and its coordinate is given as x(t) = 4t\u00b3 \u2013 3t. Choose the correct answer:\nA. The particle returns to its original position 0.866 units later\nB. The particle is 1 unit away from origin at its turning point.\nC. Acceleration of the particle is non-negative.\nD. The particle is 0.5 units away from origin at its turning point.\nE. Particle never turns back as acceleration is non-negative.",
+      "opts": [
+        "A,C,D only",
+        "A,B,C only",
+        "C,E only",
+        "A,C only"
+      ],
+      "ans": "A",
+      "hasImage": false
+    },
+    {
+      "qnum": 13,
+      "type": "INTEGER",
+      "text": "In the given figure the blocks A, B and C weigh 4 kg, 6 kg and 8 kg respectively. The co-efficient of sliding friction between any two surfaces is 0.5. The force F required to slide the block C with constant speed is _______ N. (Used g = 10 m/s\u00b2)",
+      "opts": [],
+      "ans": "210",
+      "hasImage": true
+    },
+    {
+      "qnum": 14,
+      "type": "MCQ",
+      "text": "A flexible chain of mass m hangs between two fixed points at the same level. The inclination of the chain with the horizontal at the two points of support is 30\u00b0. Considering the equilibrium of each half of the chain, the tension of the chain at the lowest point is:",
+      "opts": [
+        "(\u221a3/2)mg",
+        "(1/2)mg",
+        "mg",
+        "\u221a3mg"
+      ],
+      "ans": "A",
+      "hasImage": false
+    },
+    {
+      "qnum": 15,
+      "type": "MCQ",
+      "text": "A small block of mass m slides down from the top of a frictionless inclined surface, while the inclined plane is moving towards left with constant acceleration a\u2080. The angle between the inclined plane and ground is \u03b8 and its base length is L. Initially the small block is at the top. The time it takes to reach the lowest point of the inclined plane is:",
+      "opts": [
+        "\u221a(2L/(g sin2\u03b8 \u2212 a\u2080(1+cos2\u03b8)))",
+        "\u221a(4L/(g sin2\u03b8 \u2212 a\u2080(1+cos2\u03b8)))",
+        "\u221a(4L/(g cos\u00b2\u03b8 \u2212 a\u2080 sin\u03b8 cos\u03b8))",
+        "\u221a(2L/(g sin\u03b8 \u2212 a\u2080 cos\u03b8))"
+      ],
+      "ans": "B",
+      "hasImage": true
+    },
+    {
+      "qnum": 16,
+      "type": "MCQ",
+      "text": "Potential energy (V) versus distance (x) is given by graph. Rank various regions as per the magnitudes of the force (F) acting on a particle from high to low:",
+      "opts": [
+        "F_BC > F_CD > F_DE > F_AB",
+        "F_CD > F_AB > F_BC > F_DE",
+        "F_CD > F_DE > F_AB > F_BC",
+        "F_BC > F_AB > F_DE > F_CD"
+      ],
+      "ans": "D",
+      "hasImage": true
+    },
+    {
+      "qnum": 17,
+      "type": "MCQ",
+      "text": "In case of vertical circular motion of a particle by a thread of length r, if the tension in the thread is zero at an angle 30\u00b0 shown in figure, the velocity at the bottom point A of the circular path is: (g = gravitational acceleration)",
+      "opts": [
+        "\u221a(5gr)",
+        "\u221a(7gr/2)",
+        "\u221a(4gr)",
+        "\u221a(5gr/2)"
+      ],
+      "ans": "A",
+      "hasImage": true
+    },
+    {
+      "qnum": 18,
+      "type": "MCQ",
+      "text": "A small bob A of mass m is attached to a massless rigid rod of length 1m pivoted at point P and kept at an angle of 60\u00b0 with vertical. At distance of 1m below point P, an identical bob B is kept at rest on a smooth horizontal surface that extends to a circular track of radius R. If bob B just manages to complete the circular path of radius R upto a point Q after being hit elastically by bob A, then radius R is _____ m.",
+      "opts": [
+        "3/5",
+        "1/5",
+        "(2+\u221a3)/5",
+        "(2\u2212\u221a3)/5"
+      ],
+      "ans": "D",
+      "hasImage": true
+    },
+    {
+      "qnum": 19,
+      "type": "INTEGER",
+      "text": "A body of mass 14 kg initially at rest explodes and breaks into three fragments of masses in the ratio 2:2:3. The two pieces of equal masses fly off perpendicular to each other with a speed of 18 m/s each. The velocity of the heavier fragment is _____ m/s.",
+      "opts": [],
+      "ans": "2",
+      "hasImage": false
+    },
+    {
+      "qnum": 20,
+      "type": "MCQ",
+      "text": "A uniform rod of mass m and length l suspended by means of two identical inextensible light strings as shown in figure. Tension in one string immediately after the other string is cut, is ____. (g = acceleration due to gravity)",
+      "opts": [
+        "mg/2",
+        "mg/4",
+        "mg/3",
+        "mg"
+      ],
+      "ans": "B",
+      "hasImage": true
+    },
+    {
+      "qnum": 21,
+      "type": "MCQ",
+      "text": "The pulley shown in figure is made using a thin rim and two rods of length equal to diameter of the rim. The rim and each rod have a mass of M. Two blocks of mass M and m are attached to two ends of a light string passing over the pulley, which is hinged to rotate freely in vertical plane about its centre. The magnitudes of the acceleration experienced by the blocks is _____ (assume no slipping of string on pulley.)",
+      "opts": [
+        "(M\u2212m)g/[(13/6)M+m]",
+        "(M\u2212m)g/(M+m)",
+        "(M\u2212m)g/[(8/3)M+m]",
+        "(M\u2212m)g/(2M+m)"
+      ],
+      "ans": "C",
+      "hasImage": true
+    },
+    {
+      "qnum": 22,
+      "type": "INTEGER",
+      "text": "A uniform bar of length 12 cm and mass 20m lies on a smooth horizontal table. Two point masses m and 2m are moving in opposite directions with same speed v in the same plane as the bar. These masses strike the bar simultaneously and get stuck to it. After collision the entire system is rotating with angular frequency \u03c9. The ratio of v and \u03c9 is _____.",
+      "opts": [],
+      "ans": "1",
+      "hasImage": true
+    },
+    {
+      "qnum": 23,
+      "type": "INTEGER",
+      "text": "Suppose there is a uniform circular disc of mass M kg and radius r m shown in figure. The shaded regions are cut out from the disc. The moment of inertia of the remainder about the axis A is given by (x/256) Mr\u00b2. The value of x is:",
+      "opts": [],
+      "ans": "109",
+      "hasImage": true
+    },
+    {
+      "qnum": 24,
+      "type": "MCQ",
+      "text": "Two masses 400 g and 350 g are suspended from the ends of a light string passing over a heavy pulley of radius 2 cm. When released from rest the heavier mass is observed to fall 81 cm in 9 s. The rotational inertia of the pulley is _____ kg\u00b7m\u00b2.\n(g = 9.8 m/s\u00b2)",
+      "opts": [
+        "9.5 \u00d7 10\u207b\u00b3",
+        "4.75 \u00d7 10\u207b\u00b3",
+        "1.86 \u00d7 10\u207b\u00b2",
+        "8.3 \u00d7 10\u207b\u00b3"
+      ],
+      "ans": "A",
+      "hasImage": false
+    },
+    {
+      "qnum": 25,
+      "type": "MCQ",
+      "text": "A thin uniform rod (X) of mass M and length L is pivoted at a height (L/3) as shown in the figure. The rod is allowed to fall from a vertical position and lie horizontally on the table. The angular velocity of this rod when it hits the table top, is ______. (g = gravitational acceleration)",
+      "opts": [
+        "\u221a(3g/2L)",
+        "(3/\u221a2)\u221a(g/L)",
+        "(1/\u221a2)\u221a(g/L)",
+        "\u221a(3g/L)"
+      ],
+      "ans": "B",
+      "hasImage": true
+    },
+    {
+      "qnum": 26,
+      "type": "INTEGER",
+      "text": "Two circular discs of radius each 10 cm are joined at their centres by a rod of length 30 cm and mass 600 gm. If the mass of each disc is 600 gm and applied torque between two discs is 43 \u00d7 10\u2075 dyne cm, the angular acceleration of the discs about the given axis AB is ______ rad/s\u00b2.",
+      "opts": [],
+      "ans": "2",
+      "hasImage": true
+    },
+    {
+      "qnum": 27,
+      "type": "INTEGER",
+      "text": "Initially a satellite of 100 kg is in a circular orbit of radius 1.5R\u2091. This satellite can be moved to a circular orbit of radius 3R\u2091 by supplying \u03b1 \u00d7 10\u2076 J of energy. The value of \u03b1 is ___________.\n(Take Radius of Earth R\u2091 = 6 \u00d7 10\u2076 m and g = 10 m/s\u00b2)",
+      "opts": [],
+      "ans": "4",
+      "hasImage": false
+    },
+    {
+      "qnum": 28,
+      "type": "INTEGER",
+      "text": "Net gravitational force at the centre of a square is found to be F\u2081 when four particles having mass M, 2M, 3M and 4M are placed at the four corners. It is F\u2082 when the positions of 3M and 4M are interchanged. The ratio F\u2081/F\u2082 is \u03b1/\u221a5. The value of \u03b1 is:",
+      "opts": [],
+      "ans": "1",
+      "hasImage": true
+    },
+    {
+      "qnum": 29,
+      "type": "MCQ",
+      "text": "Two wires A and B made of different materials of length 6.0 cm and 5.4 cm, and area of cross sections 3.0 \u00d7 10\u207b\u2075 m\u00b2 and 4.5 \u00d7 10\u207b\u2075 m\u00b2, respectively, are stretched by the same magnitude under a given load. The ratio of the Young's modulus of A to that of B is x:3. The value of x is:",
+      "opts": [
+        "1",
+        "4",
+        "2",
+        "5"
+      ],
+      "ans": "D",
+      "hasImage": false
+    },
+    {
+      "qnum": 30,
+      "type": "INTEGER",
+      "text": "Water flows through a horizontal tube as shown in figure. The difference in height between the water columns in vertical tubes is 5 cm and the area of cross-sections at A and B are 6 cm\u00b2 and 3 cm\u00b2 respectively. The rate of flow will be _____ cm\u00b3/s. (take g = 10 m/s\u00b2)",
+      "opts": [],
+      "ans": "3",
+      "hasImage": true
+    },
+    {
+      "qnum": 31,
+      "type": "INTEGER",
+      "text": "When a part of a straight capillary tube is placed vertically in a liquid, the liquid raises upto certain height h. If the inner radius of the capillary tube, density of the liquid and surface tension of the liquid decrease by 1% each, then the height of the liquid in the tube will change by _____ %.",
+      "opts": [],
+      "ans": "4",
+      "hasImage": false
+    },
+    {
+      "qnum": 32,
+      "type": "MCQ",
+      "text": "An air bubble of volume 2.9 cm\u00b3 rises from the bottom of a swimming pool of 5 m deep. At the bottom of the pool water temperature is 17\u00b0C. The volume of the bubble when it reaches the surface, where the water temperature is 27\u00b0C, is _____ cm\u00b3.\n(g = 10 m/s\u00b2, density of water = 10\u00b3 kg/m\u00b3, and 1 atm pressure is 10\u2075 Pa)",
+      "opts": [
+        "4.2",
+        "2.0",
+        "3.0",
+        "4.5"
+      ],
+      "ans": "A",
+      "hasImage": false
+    },
+    {
+      "qnum": 33,
+      "type": "MCQ",
+      "text": "The kinetic energy of a simple harmonic oscillator is oscillating with angular frequency of 176 rad/s. The frequency of this simple harmonic oscillator is _____ Hz. [take \u03c0 = 22/7]",
+      "opts": [
+        "14",
+        "88",
+        "28",
+        "176"
+      ],
+      "ans": "C",
+      "hasImage": false
+    },
+    {
+      "qnum": 34,
+      "type": "MCQ",
+      "text": "A cylindrical block of mass M and area of cross section A is floating in a liquid of density \u03c1 and with its axis vertical. When depressed a little and released the block starts oscillating. The period of oscillation is:",
+      "opts": [
+        "2\u03c0\u221a(M/\u03c1Ag)",
+        "\u03c0\u221a(2M/\u03c1Ag)",
+        "\u03c0\u221a(\u03c1A/Mg)",
+        "2\u03c0\u221a(\u03c1A/Mg)"
+      ],
+      "ans": "A",
+      "hasImage": false
+    },
+    {
+      "qnum": 35,
+      "type": "INTEGER",
+      "text": "A spring of force constant 15 N/m is cut into two pieces. If the ratio of their length is 1:3, then the force constant of smaller piece is _____ N/m.",
+      "opts": [],
+      "ans": "3",
+      "hasImage": false
+    },
+    {
+      "qnum": 36,
+      "type": "MCQ",
+      "text": "A gas based geyser heats water flowing at the rate of 5.0 litres per minute from 27\u00b0C to 87\u00b0C. The rate of consumption of the gas is _____ g/s.\n(Take heat of combustion of gas = 5.0 \u00d7 10\u2074 J/g, specific heat capacity of water = 4200 J/kg.\u00b0C)",
+      "opts": [
+        "2.1",
+        "4.2",
+        "0.42",
+        "0.21"
+      ],
+      "ans": "C",
+      "hasImage": false
+    },
+    {
+      "qnum": 37,
+      "type": "MCQ",
+      "text": "An aluminium and steel rods having same lengths and cross-sections are joined to make total length of 120 cm at 30\u00b0C. The coefficient of linear expansion of aluminium and steel are 24 \u00d7 10\u207b\u2076/\u00b0C and 1.2 \u00d7 10\u207b\u2075/\u00b0C respectively. The length of this composite rod when its temperature is raised to 100\u00b0C, is _____ cm.",
+      "opts": [
+        "120.20",
+        "120.15",
+        "120.03",
+        "120.06"
+      ],
+      "ans": "B",
+      "hasImage": false
+    },
+    {
+      "qnum": 38,
+      "type": "MCQ",
+      "text": "Rods x and y of equal dimensions but different materials are joined as shown in figure. Temperatures of end points A and F are maintained at 100\u00b0C and 40\u00b0C respectively. Given the thermal conductivity of rod x is three times of that of rod y. The temperature at junction points B and E are (close to):",
+      "opts": [
+        "89\u00b0C and 73\u00b0C",
+        "80\u00b0C and 60\u00b0C",
+        "80\u00b0C and 70\u00b0C",
+        "60\u00b0C and 45\u00b0C"
+      ],
+      "ans": "B",
+      "hasImage": true
+    },
+    {
+      "qnum": 39,
+      "type": "MCQ",
+      "text": "In a perfectly inelastic collision, two spheres of same material with masses 15 kg and 25 kg, moving in opposite directions with speeds of 10 m/s and 30 m/s respectively, strike each other and stick together. The rise in temperature (in \u00b0C), if all the heat produced during the collision is retained by these spheres, is:\n(specific heat of sphere material 31 cal/kg.\u00b0C and 1 cal = 4.2 J)",
+      "opts": [
+        "1.75",
+        "1.44",
+        "1.15",
+        "1.95"
+      ],
+      "ans": "B",
+      "hasImage": false
+    },
+    {
+      "qnum": 40,
+      "type": "MCQ",
+      "text": "A brass wire of length 2m and radius 1mm at 27\u00b0C is held taut between two rigid supports. Initially it was cooled to \u221243\u00b0C creating a tension T in the wire. The temperature to which the wire has to be cooled in order to increase the tension to 1.4T, is _____ \u00b0C",
+      "opts": [
+        "\u221286",
+        "\u221271",
+        "\u221265",
+        "\u221280"
+      ],
+      "ans": "B",
+      "hasImage": false
+    },
+    {
+      "qnum": 41,
+      "type": "MCQ",
+      "text": "A cylindrical tube AB of length l, closed at both ends contains an ideal gas of 1 mol having molecular weight M. The tube is rotated in a horizontal plane with constant angular velocity \u03c9 about an axis perpendicular to AB and passing through the edge at end A. If P\u2090 and P_B are the pressures at A and B respectively, then (Consider the temperature is same at all points in the tube):",
+      "opts": [
+        "P_B = P\u2090 exp(M\u03c9\u00b2l\u00b2/2RT)",
+        "P_B = P\u2090",
+        "P_B = P\u2090 exp(M\u03c9\u00b2l\u00b2/3RT)",
+        "P_B = P\u2090 exp(M\u03c9\u00b2l\u00b2/RT)"
+      ],
+      "ans": "A",
+      "hasImage": true
+    },
+    {
+      "qnum": 42,
+      "type": "MCQ",
+      "text": "The internal energy of a monoatomic gas is 3nRT. One mole of helium is kept in a cylinder having internal cross section area of 17 cm\u00b2 and fitted with a light movable frictionless piston. The gas is heated slowly by supplying 126 J heat. If the temperature rises by 4\u00b0C, then the piston will move _____ cm. (atmospheric pressure = 10\u2075 Pa)",
+      "opts": [
+        "14.5",
+        "1.55",
+        "15.5",
+        "1.45"
+      ],
+      "ans": "C",
+      "hasImage": false
+    },
+    {
+      "qnum": 43,
+      "type": "MCQ",
+      "text": "Density of water at 4\u00b0C and 20\u00b0C are 1000 kg/m\u00b3 and 998 kg/m\u00b3. The increase in internal energy of 4 kg water when it is heated from 4\u00b0C to 20\u00b0C is _____ J.\n(Specific heat capacity of water = 4200 J/kg\u00b0C, 1 atmospheric pressure = 10\u2075 Pa)",
+      "opts": [
+        "315826.2",
+        "234699.2",
+        "258700.8",
+        "268799.2"
+      ],
+      "ans": "D",
+      "hasImage": false
+    },
+    {
+      "qnum": 44,
+      "type": "MCQ",
+      "text": "In the following p-V diagram the equation of state along the curved path is given by (V \u2212 2)\u00b2 = 4ap where a is a constant. The total work done in the closed path is:",
+      "opts": [
+        "\u22121/a",
+        "1/3a",
+        "1/2a",
+        "\u22121/3a"
+      ],
+      "ans": "D",
+      "hasImage": true
+    },
+    {
+      "qnum": 45,
+      "type": "MCQ",
+      "text": "The mean free path of a molecule of diameter 5 \u00d7 10\u207b\u00b9\u2070 m at the temperature 41\u00b0C and pressure 1.38 \u00d7 10\u2075 Pa, is given as _____ m.\n(Given k_B = 1.38 \u00d7 10\u207b\u00b2\u00b3 J/K)",
+      "opts": [
+        "2\u221a2 \u00d7 10\u207b\u00b9\u2070",
+        "2\u221a2 \u00d7 10\u207b\u2078",
+        "10\u221a2 \u00d7 10\u207b\u2078",
+        "2 \u00d7 10\u207b\u2078"
+      ],
+      "ans": "C",
+      "hasImage": false
+    },
+    {
+      "qnum": 46,
+      "type": "MCQ",
+      "text": "Two strings (A, B) having linear densities \u03bc\u2090 = 2 \u00d7 10\u207b\u2074 kg/m and \u03bc_B = 4 \u00d7 10\u207b\u2074 kg/m and lengths L\u2090 = 2.5 m and L_B = 1.5 m respectively are joined. Free ends of A and B are tied to two rigid supports C and D, creating a tension of 500 N. Two identical pulses, sent from C and D ends, take time t\u2081 and t\u2082 respectively to reach the joint. The ratio t\u2081/t\u2082 is:",
+      "opts": [
+        "1.08",
+        "1.90",
+        "1.67",
+        "1.18"
+      ],
+      "ans": "B",
+      "hasImage": false
+    },
+    {
+      "qnum": 47,
+      "type": "INTEGER",
+      "text": "Two loudspeakers L\u2081 and L\u2082 are placed with a separation of 10 m. Both speakers are fed with an audio input signal of same frequency with constant volume. A voice recorder, initially at point A at equidistance to both speakers, is moved by 25 m along the line AB while monitoring the audio signal. The measured signal underwent 10 cycles of minima and maxima during the movement. The frequency of the input signal is _____ Hz.\n(Speed of sound in air is 324 m/s and \u221a5 = 2.23)",
+      "opts": [],
+      "ans": "600",
+      "hasImage": true
+    },
+    {
+      "qnum": 48,
+      "type": "MCQ",
+      "text": "The fifth harmonic of a closed organ pipe is found to be in unison with the first harmonic of an open pipe. The ratio of lengths of closed pipe to that of the open pipe is 5/x. The value of x is:",
+      "opts": [
+        "4",
+        "2",
+        "1",
+        "3"
+      ],
+      "ans": "B",
+      "hasImage": false
+    },
+    {
+      "qnum": 49,
+      "type": "MCQ",
+      "text": "The speed of a longitudinal wave in a metallic bar is 400 m/s. If the density and Young's modulus of the bar material are increased by 0.5% and 1% respectively, then the speed of the wave is changed approximately to _____ m/s.",
+      "opts": [
+        "399",
+        "398",
+        "402",
+        "401"
+      ],
+      "ans": "D",
+      "hasImage": false
+    },
+    {
+      "qnum": 50,
+      "type": "INTEGER",
+      "text": "Two tuning forks A and B are sounded together giving rise to 8 beats in 2 s. When fork A is loaded with wax, the beat frequency is reduced to 4 beats in 2 s. If the original frequency of tuning fork B is 380 Hz, then the original frequency of tuning fork A is _____ Hz.",
+      "opts": [],
+      "ans": "384",
+      "hasImage": false
+    },
+    {
+      "qnum": 51,
+      "type": "MCQ",
+      "text": "Consider two identical metallic spheres of radius R each having charge Q and mass m. Their centers have an initial separation of 4R. Both the spheres are given an initial speed of u towards each other. The minimum value of u, so that they can just touch each other is:\n(Take k = 1/4\u03c0\u03b5\u2080 and assume kQ\u00b2 > Gm\u00b2 where G is the Gravitational constant)",
+      "opts": [
+        "\u221a(kQ\u00b2/4mR \u00d7 (1 \u2212 Gm\u00b2/kQ\u00b2))",
+        "\u221a(kQ\u00b2/4mR \u00d7 (1 + Gm\u00b2/kQ\u00b2))",
+        "\u221a(kQ\u00b2/2mR \u00d7 (1 \u2212 Gm\u00b2/kQ\u00b2))",
+        "\u221a(kQ\u00b2/2mR \u00d7 (1 \u2212 Gm\u00b2/2kQ\u00b2))"
+      ],
+      "ans": "A",
+      "hasImage": false
+    },
+    {
+      "qnum": 52,
+      "type": "MCQ",
+      "text": "Two point charges 2q and q are placed at vertex A and centre of face CDEF of the cube as shown in figure. The electric flux passing through the cube is:",
+      "opts": [
+        "3q/\u03b5\u2080",
+        "q/\u03b5\u2080",
+        "3q/2\u03b5\u2080",
+        "3q/4\u03b5\u2080"
+      ],
+      "ans": "D",
+      "hasImage": true
+    },
+    {
+      "qnum": 53,
+      "type": "MCQ",
+      "text": "Two shorts dipoles (A, B), A having charges \u00b12\u03bcC and length 1 cm and B having charges \u00b14\u03bcC and length 1 cm are placed with their centres 80 cm apart as shown in the figure. The electric field at point P, equi-distant from the centres of both dipoles, is _____ N/C.",
+      "opts": [
+        "(9/16)\u221a2 \u00d7 10\u2075",
+        "4.5\u221a2 \u00d7 10\u2074",
+        "9\u221a2 \u00d7 10\u2074",
+        "(9/16)\u221a2 \u00d7 10\u2074"
+      ],
+      "ans": "A",
+      "hasImage": true
+    },
+    {
+      "qnum": 54,
+      "type": "MCQ",
+      "text": "Two charges 7\u03bcC and \u22122\u03bcC are placed at (\u22129, 0, 0) cm and (9, 0, 0) cm respectively in an external field E = (A/r\u00b2)r\u0302, where A = 9 \u00d7 10\u2075 N/C.m\u00b2. Considering the potential at infinity is 0, the electrostatic energy of the configuration is _____ J.",
+      "opts": [
+        "1.4",
+        "\u221290.7",
+        "49.3",
+        "24.3"
+      ],
+      "ans": "C",
+      "hasImage": false
+    },
+    {
+      "qnum": 55,
+      "type": "INTEGER",
+      "text": "The electrostatic potential in a charged spherical region of radius r varies as V = ar\u00b3 + b, where a and b are constants. The total charge in the sphere of unit radius is \u03b1 \u00d7 \u03c0a\u2208\u2080. The value of \u03b1 is _____.",
+      "opts": [],
+      "ans": "1",
+      "hasImage": false
+    },
+    {
+      "qnum": 56,
+      "type": "MCQ",
+      "text": "There are three co-centric conducting spherical shells A, B and C of radii a, b and c respectively (c > b > a) and charge on A, B and C are q1, q2 and q3 respectively. The potential of the spheres A, B and C respectively, are:",
+      "opts": [
+        "(1/4\u03c0\u03b5\u2080)(q\u2081+q\u2082+q\u2083)/a, (1/4\u03c0\u03b5\u2080)(q\u2081+q\u2082+q\u2083)/b, (1/4\u03c0\u03b5\u2080)(q\u2081+q\u2082+q\u2083)/c",
+        "(1/4\u03c0\u03b5\u2080)(q\u2081+q\u2082+q\u2083)/a, (1/4\u03c0\u03b5\u2080)(q\u2081+q\u2082+q\u2083)/b+(q\u2082+q\u2083)/c, ...",
+        "(1/4\u03c0\u03b5\u2080)(q\u2081/a+q\u2082/b+q\u2083/c), (1/4\u03c0\u03b5\u2080)(q\u2081+q\u2082)/b+(q\u2083/c), ...",
+        "(1/4\u03c0\u03b5\u2080)(q\u2081+q\u2082+q\u2083)/a, (1/4\u03c0\u03b5\u2080)(q\u2081+q\u2082+q\u2083)/b+(q\u2082+q\u2083)/c, ..."
+      ],
+      "ans": "D",
+      "hasImage": false
+    },
+    {
+      "qnum": 57,
+      "type": "INTEGER",
+      "text": "A point charge q = 1 \u03bcC is located at a distance 2 cm from one end of a thin insulating wire of length 10 cm having a charge Q = 24 \u03bcC, distributed uniformly along its length. Force between q and wire is _____ N.\n(Use 1/4\u03c0\u03b5\u2080 = 9 \u00d7 10\u2079 N.m\u00b2/C\u00b2)",
+      "opts": [],
+      "ans": "90",
+      "hasImage": true
+    },
+    {
+      "qnum": 58,
+      "type": "INTEGER",
+      "text": "The space between the plates of a parallel-plate capacitor of capacitance C (without any dielectric) is now filled with three dielectric slabs of dielectric constants K\u2081 = 2, K\u2082 = 3, and K\u2083 = 5 (as shown in the figure). If new capacitance is (n/3)C, the value of n is:",
+      "opts": [],
+      "ans": "8",
+      "hasImage": true
+    },
+    {
+      "qnum": 59,
+      "type": "MCQ",
+      "text": "A parallel plate capacitor with plate separation 5 mm is charged up by a battery. It is found that on introducing a dielectric sheet of thickness 2 mm, while keeping the battery connections intact, the capacitor draws 25% more charge from the battery than before. The dielectric constant of the sheet is:",
+      "opts": [
+        "2.5",
+        "2.0",
+        "1.5",
+        "1.0"
+      ],
+      "ans": "B",
+      "hasImage": false
+    },
+    {
+      "qnum": 60,
+      "type": "MCQ",
+      "text": "Three parallel plate capacitors each with area A and separation d are filled with two dielectric (k\u2081 and k\u2082) in the following fashion. Which of the following is true? (k\u2081 > k\u2082)",
+      "opts": [
+        "C_B > C_C > C_A",
+        "C_C > C_B > C_A",
+        "C_C > C_A > C_B",
+        "C_A > C_C > C_B"
+      ],
+      "ans": "C",
+      "hasImage": true
+    },
+    {
+      "qnum": 61,
+      "type": "MCQ",
+      "text": "Identify the correct statements:\nA. Effective capacitance of a series combination of capacitors is always smaller than the smallest capacitance in the combination.\nB. When a dielectric medium is placed between the charged plates, displacement of charges cannot occur due to insulation property of dielectric.\nC. Increasing area of capacitor plate or decreasing of thickness of dielectric is an alternate method to increase the capacitance.\nD. For a point charge, concentric spherical shells centered at the location of the charge are equipotential surfaces.\nChoose the correct answer:",
+      "opts": [
+        "A, B and C only",
+        "A, C and D only",
+        "C and D only",
+        "B and D only"
+      ],
+      "ans": "B",
+      "hasImage": false
+    },
+    {
+      "qnum": 62,
+      "type": "MCQ",
+      "text": "An electric power line having total resistance of 2 \u03a9, delivers 1 kW of power of 250 V. The percentage efficiency of transmission line is _____.",
+      "opts": [
+        "96.9",
+        "86.5",
+        "100",
+        "92.5"
+      ],
+      "ans": "A",
+      "hasImage": false
+    },
+    {
+      "qnum": 63,
+      "type": "INTEGER",
+      "text": "A cylindrical conductor of length 2m and area of cross-section 0.2 mm\u00b2 carries an electric current of 1.6 A when its ends are connected to a 2V battery. Mobility of electrons in the conductor is \u03b1 \u00d7 10\u207b\u00b3 m\u00b2/V.s. The value of \u03b1 is:\n(electron concentration = 5 \u00d7 10\u00b2\u2078/m\u00b3 and electron charge = 1.6 \u00d7 10\u207b\u00b9\u2079 C)",
+      "opts": [],
+      "ans": "1",
+      "hasImage": false
+    },
+    {
+      "qnum": 64,
+      "type": "MCQ",
+      "text": "A regular hexagon is formed by six wires each of resistance r \u03a9 and the corners are joined to centre by wires of same resistance. If the current enters at one corner and leaves at the opposite corner, the equivalent resistance of the hexagon between the two opposite corners will be:",
+      "opts": [
+        "(4/5)r",
+        "(5/8)r",
+        "(3/4)r",
+        "(3/5)r"
+      ],
+      "ans": "D",
+      "hasImage": false
+    },
+    {
+      "qnum": 65,
+      "type": "INTEGER",
+      "text": "In a meter bridge experiment to determine the value of unknown resistance, first the resistances 2\u03a9 and 3\u03a9 are connected in the left and right gaps and the null point is obtained at a distance l cm from the left. Now when an unknown resistance x \u03a9 is connected in parallel to 3\u03a9 resistance, the null point is shifted by 10 cm to the right. The value of unknown resistance x is ___ \u03a9.",
+      "opts": [],
+      "ans": "6",
+      "hasImage": false
+    },
+    {
+      "qnum": 66,
+      "type": "INTEGER",
+      "text": "In the potentiometer, when the cell in the secondary circuit is shunted with 4\u03a9 resistance, the balance is obtained at the length 120 cm. Now when the same cell is shunted with 12\u03a9 resistance, the balance is shifted to a length of 180 cm. The internal resistance of cell is ___ \u03a9.",
+      "opts": [],
+      "ans": "2",
+      "hasImage": false
+    },
+    {
+      "qnum": 67,
+      "type": "INTEGER",
+      "text": "The equivalent resistance between the points A and B in the following circuit is (x/5)\u03a9. The value of x is:\n(Circuit: 6\u03a9 and 3\u03a9 in series with a 3\u03a9 branch between them, with 3\u03a9 and 6\u03a9 at bottom)",
+      "opts": [],
+      "ans": "21",
+      "hasImage": true
+    },
+    {
+      "qnum": 68,
+      "type": "MCQ",
+      "text": "A Wheatstone bridge is initially at room temperature and all arms have same resistance (R\u2081 = R\u2082 = R\u2083 = R\u2084). When R\u2083 resistance is heated to some temperature, its resistance value has gone up by 10%. The potential difference (V\u2090 \u2013 V_b) (after R\u2083 is heated) is _____ V.",
+      "opts": [
+        "1.05",
+        "0",
+        "0.95",
+        "2"
+      ],
+      "ans": "C",
+      "hasImage": true
+    },
+    {
+      "qnum": 69,
+      "type": "INTEGER",
+      "text": "A short bar magnet placed with its axis at 30\u00b0 with an external field of 800 Gauss, experiences a torque of 0.016 N.m. The work done in moving it from most stable to most unstable position is \u03b1 \u00d7 10\u207b\u00b3 J. The value of \u03b1 is:",
+      "opts": [],
+      "ans": "64",
+      "hasImage": false
+    },
+    {
+      "qnum": 70,
+      "type": "MCQ",
+      "text": "Two identical circular loops P and Q each of radius r are lying in parallel planes such that they have common axis. The current through P and Q are I and 4I respectively in clockwise direction as seen from O. The net magnetic field at O is:",
+      "opts": [
+        "(3\u03bc\u2080I/4\u221a2r) toward P",
+        "(\u03bc\u2080I/4\u221a2r) toward P",
+        "(\u03bc\u2080I/4\u221a2r) toward Q",
+        "(3\u03bc\u2080I/4\u221a2r) toward Q"
+      ],
+      "ans": "D",
+      "hasImage": true
+    },
+    {
+      "qnum": 71,
+      "type": "INTEGER",
+      "text": "Three long straight wires carrying current are arranged mutually parallel as shown. The force experienced by 15 cm length of wire Q is _____ N.\n(\u03bc\u2080 = 4\u03c0 \u00d7 10\u207b\u2077 T.m/A; 3A, 1A\u2193, 2A; spacing 3cm and 2cm)",
+      "opts": [],
+      "ans": "2",
+      "hasImage": true
+    },
+    {
+      "qnum": 72,
+      "type": "MCQ",
+      "text": "A conducting circular loop of area 1.0 m\u00b2 is placed perpendicular to a magnetic field which varies as B = sin(100t) Tesla. If the resistance of the loop is 100\u03a9, then the average thermal energy dissipated in the loop in one period is _____ J.",
+      "opts": [
+        "\u03c0/2",
+        "2\u03c0",
+        "\u03c0",
+        "\u03c0\u00b2"
+      ],
+      "ans": "C",
+      "hasImage": false
+    },
+    {
+      "qnum": 73,
+      "type": "MCQ",
+      "text": "A 1 m long metal rod AB completes the circuit as shown in figure. The area of circuit is perpendicular to the magnetic field of 0.10 T. If the resistance of the total circuit is 2\u03a9, then the force needed to move the rod towards right with constant speed v = 1.5 m/s is _____ N.",
+      "opts": [
+        "7.5 \u00d7 10\u207b\u00b2",
+        "5.7 \u00d7 10\u207b\u00b3",
+        "5.7 \u00d7 10\u207b\u00b2",
+        "7.5 \u00d7 10\u207b\u00b3"
+      ],
+      "ans": "D",
+      "hasImage": true
+    },
+    {
+      "qnum": 74,
+      "type": "MCQ",
+      "text": "Three identical coils C\u2081, C\u2082 and C\u2083 are closely placed such that they share a common axis. C\u2082 is exactly midway. C\u2081 carries current I in anti-clockwise direction while C\u2083 carries current I in clockwise direction. An induced current flows through C\u2082 will be in clockwise direction when:",
+      "opts": [
+        "C\u2081 and C\u2083 move with equal speeds away from C\u2082",
+        "C\u2081 moves towards C\u2082 and C\u2083 moves away from C\u2082",
+        "C\u2081 moves away from C\u2082 and C\u2083 moves towards C\u2082",
+        "C\u2081 and C\u2083 move with equal speeds towards C\u2082"
+      ],
+      "ans": "B",
+      "hasImage": false
+    },
+    {
+      "qnum": 75,
+      "type": "INTEGER",
+      "text": "Inductance of a coil with 10\u2074 turns is 10 mH and it is connected to a dc source of 10 V with internal resistance of 10\u03a9. The energy density in the inductor when the current reaches (1/e) of its maximum value is \u03b1\u03c0 \u00d7 (1/e\u00b2) J/m\u00b3. The value of \u03b1 is ___.\n(\u03bc\u2080 = 4\u03c0 \u00d7 10\u207b\u2077 Tm/A)",
+      "opts": [],
+      "ans": "20",
+      "hasImage": false
+    },
+    {
+      "qnum": 76,
+      "type": "INTEGER",
+      "text": "A conducting circular loop is rotated about its diameter at a constant angular speed of 100 rad/s in a magnetic field of 0.5T perpendicular to the axis of rotation. When the loop is rotated by 30\u00b0 from the horizontal position, the induced EMF is 15.4 mV. The radius of the loop is _____ mm.\n(Take \u03c0 = 22/7)",
+      "opts": [],
+      "ans": "14",
+      "hasImage": false
+    },
+    {
+      "qnum": 77,
+      "type": "INTEGER",
+      "text": "A simple pendulum made of mass 10 g and a metallic wire of length 10 cm is suspended vertically in a uniform magnetic field of 2 T. The magnetic field direction is perpendicular to the plane of oscillations of the pendulum. If the pendulum is released from an angle of 60\u00b0 with vertical, then maximum induced EMF between the point of suspension and point of oscillation is _____ mV. (Take g = 10 m/s\u00b2)",
+      "opts": [],
+      "ans": "100",
+      "hasImage": false
+    },
+    {
+      "qnum": 78,
+      "type": "INTEGER",
+      "text": "Suppose a long solenoid of 100 cm length, radius 2 cm having 500 turns per unit length, carries a current I = 10 sin(\u03c9t) A, where \u03c9 = 1000 rad/s. A circular conducting loop (B) of radius 1 cm is coaxially slid through the solenoid at a speed v = 1 cm/s. The r.m.s. current through the loop when the coil B is inserted 10 cm inside the solenoid is \u03b1/\u221a2 \u03bcA. The value of \u03b1 is ___. [Resistance of the loop = 10 \u03a9]",
+      "opts": [],
+      "ans": "1",
+      "hasImage": false
+    },
+    {
+      "qnum": 79,
+      "type": "MCQ",
+      "text": "A capacitor C is first charged fully with potential difference of V\u2080 and disconnected from the battery. The charged capacitor is connected across an inductor having inductance L. In t s, 25% of the initial energy in the capacitor is transferred to the inductor. The value of t is _____ s.",
+      "opts": [
+        "\u03c0\u221a(LC)/3",
+        "\u03c0\u221a(LC)/6",
+        "\u03c0\u221a(LC)/2",
+        "\u03c0\u221a(LC/2)"
+      ],
+      "ans": "B",
+      "hasImage": false
+    },
+    {
+      "qnum": 80,
+      "type": "INTEGER",
+      "text": "Using a variable-frequency a.c. voltage source, the maximum current measured in the given LCR circuit is 50 mA for V=5sin(100t). The values of L and R are shown in the figure (L=2H, R=100\u03a9). The capacitance of the capacitor (C) used is _____ \u03bcF.",
+      "opts": [],
+      "ans": "50",
+      "hasImage": true
+    },
+    {
+      "qnum": 81,
+      "type": "MCQ",
+      "text": "The electric current in the circuit is given as i = i\u2080(t/T). The r.m.s. current for the period t = 0 to t = T is:",
+      "opts": [
+        "i\u2080/\u221a2",
+        "i\u2080",
+        "i\u2080/\u221a6",
+        "i\u2080/\u221a3"
+      ],
+      "ans": "D",
+      "hasImage": false
+    },
+    {
+      "qnum": 82,
+      "type": "MCQ",
+      "text": "In a double slit experiment the distance between the slits is 0.1 cm and the screen is placed at 50 cm from the slits plane. When one slit is covered with a transparent sheet having thickness t and refractive index n(= 1.5), the central fringe shifts by 0.2 cm. The value of t is _____ cm.",
+      "opts": [
+        "8 \u00d7 10\u207b\u2074",
+        "6.0 \u00d7 10\u207b\u00b3",
+        "5.6 \u00d7 10\u207b\u2074",
+        "5.0 \u00d7 10\u207b\u00b3"
+      ],
+      "ans": "A",
+      "hasImage": false
+    },
+    {
+      "qnum": 83,
+      "type": "MCQ",
+      "text": "When an unpolarized light falls at a particular angle on a glass plate (placed in air), it is observed that the reflected beam is linearly polarized. The angle of refracted beam with respect to the normal is: (tan\u207b\u00b9(1.52) = 57.7\u00b0, refractive indices of air and glass are 1.00 and 1.52)",
+      "opts": [
+        "39.6\u00b0",
+        "32.3\u00b0",
+        "42.6\u00b0",
+        "36.3\u00b0"
+      ],
+      "ans": "B",
+      "hasImage": false
+    },
+    {
+      "qnum": 84,
+      "type": "MCQ",
+      "text": "In Young's double slit experiment, the intensity produced by each one of the individual slits is I\u2080. The distance between two slits is 2 mm. The distance of screen from slits is 10 m. The wavelength of light is 6000 \u00c5. The intensity of light on the screen in front of one of the slits is:",
+      "opts": [
+        "2I\u2080",
+        "I\u2080",
+        "I\u2080/2",
+        "4I\u2080"
+      ],
+      "ans": "B",
+      "hasImage": false
+    },
+    {
+      "qnum": 85,
+      "type": "INTEGER",
+      "text": "An electromagnetic wave of frequency 100 MHz propagates through a medium of conductivity \u03c3 = 10 mho/m. The ratio of maximum conducting current density to maximum displacement current density is _____.\n[Take 1/4\u03c0\u03b5\u2080 = 9 \u00d7 10\u2079 Nm\u00b2/C\u00b2]",
+      "opts": [],
+      "ans": "1800",
+      "hasImage": false
+    },
+    {
+      "qnum": 86,
+      "type": "MCQ",
+      "text": "The electric field of a plane electromagnetic wave, travelling in an unknown non-magnetic medium is given by, Ey = 20 sin(3 \u00d7 10\u2076x \u2212 4.5 \u00d7 10\u00b9\u2074t) V/m (where x, t and other values have S.I. units). The dielectric constant of the medium is ____.\n(speed of light in free space is 3 \u00d7 10\u2078 m/s)",
+      "opts": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "ans": "D",
+      "hasImage": false
+    },
+    {
+      "qnum": 87,
+      "type": "MCQ",
+      "text": "A laser beam has intensity of 4.0 \u00d7 10\u00b9\u2074 W/m\u00b2. The amplitude of magnetic field associated with beam is _____ T.\n(Take \u03b5\u2080 = 8.85 \u00d7 10\u207b\u00b9\u00b2 C\u00b2/Nm\u00b2 and c = 3 \u00d7 10\u2078 m/s)",
+      "opts": [
+        "2.0",
+        "18.3",
+        "5.5",
+        "1.83"
+      ],
+      "ans": "D",
+      "hasImage": false
+    },
+    {
+      "qnum": 88,
+      "type": "INTEGER",
+      "text": "The equation of the electric field of an electromagnetic wave propagating through free space is given by: E = \u221a377 sin(6.27 \u00d7 10\u00b3t \u2212 2.09 \u00d7 10\u207b\u2075x) N/C. The average power of the electromagnetic wave is (1/\u03b1) W/m\u00b2. The value of \u03b1 is ___.\n(Take \u221a(\u03bc\u2080/\u03b5\u2080) = 377 in SI units)",
+      "opts": [],
+      "ans": "2",
+      "hasImage": false
+    },
+    {
+      "qnum": 89,
+      "type": "INTEGER",
+      "text": "A collimated beam of light of diameter 2 mm is propagating along x-axis. The beam is required to be expanded in a collimated beam of diameter 14 mm using a system of two convex lenses. If first lens has focal length 40 mm, then the focal length of second lens is _____ mm.",
+      "opts": [],
+      "ans": "280",
+      "hasImage": false
+    },
+    {
+      "qnum": 90,
+      "type": "INTEGER",
+      "text": "In a microscope the objective is having focal length f\u2080 = 2 cm and eye-piece is having focal length f\u2091 = 4 cm. The tube length is 32 cm. The magnification produced by this microscope for normal adjustment is _____.",
+      "opts": [],
+      "ans": "100",
+      "hasImage": false
+    },
+    {
+      "qnum": 91,
+      "type": "MCQ",
+      "text": "As shown in the diagram, when the incident ray is parallel to base of the prism, the emergent ray grazes along the second surface. If refractive index of the material of prism is \u221a2, the angle \u03b8 of prism is:",
+      "opts": [
+        "60\u00b0",
+        "75\u00b0",
+        "90\u00b0",
+        "45\u00b0"
+      ],
+      "ans": "A",
+      "hasImage": true
+    },
+    {
+      "qnum": 92,
+      "type": "MCQ",
+      "text": "A thin convex lens of focal length 5 cm and a thin concave lens of focal length 4 cm are combined together (without any gap) and this combination has magnification m\u2081 when an object is placed 10 cm before the convex lens. Keeping the positions of convex lens and object undisturbed a gap of 1 cm is introduced between the lenses by moving the concave lens away, which leads to a change in magnification of total lens system to m\u2082. The value of |m\u2081/m\u2082| is:",
+      "opts": [
+        "5/9",
+        "5/27",
+        "3/2",
+        "25/27"
+      ],
+      "ans": "D",
+      "hasImage": false
+    },
+    {
+      "qnum": 93,
+      "type": "MCQ",
+      "text": "A thin prism with angle 5\u00b0 of refractive index 1.72 is combined with another prism of refractive index 1.9 to produce dispersion without deviation. The angle of second prism is:",
+      "opts": [
+        "4.5\u00b0",
+        "6\u00b0",
+        "4\u00b0",
+        "5\u00b0"
+      ],
+      "ans": "A",
+      "hasImage": false
+    },
+    {
+      "qnum": 94,
+      "type": "MCQ",
+      "text": "A prism of angle 75\u00b0 and refractive index \u221a3 is coated with thin film of refractive index 1.5 only at the back exit surface. To have total internal reflection at the back exit surface the incident angle must be:\n(sin 15\u00b0 = 0.25 and sin 25\u00b0 = 0.43)",
+      "opts": [
+        "between 15\u00b0 and 20\u00b0",
+        "15\u00b0",
+        "> 25\u00b0",
+        "< 15\u00b0"
+      ],
+      "ans": "A",
+      "hasImage": false
+    },
+    {
+      "qnum": 95,
+      "type": "INTEGER",
+      "text": "The size of the images of an object, formed by a thin lens are equal when the object is placed at two different positions 8 cm and 24 cm from the lens. The focal length of the lens is _____ cm.",
+      "opts": [],
+      "ans": "16",
+      "hasImage": false
+    },
+    {
+      "qnum": 96,
+      "type": "MCQ",
+      "text": "Distance between an object and three times magnified real image is 40 cm. The focal length of the mirror used is _____ cm.",
+      "opts": [
+        "\u221215/2",
+        "\u221210",
+        "\u221220",
+        "\u221215"
+      ],
+      "ans": "D",
+      "hasImage": false
+    },
+    {
+      "qnum": 97,
+      "type": "MCQ",
+      "text": "The magnitudes of power of a biconvex lens (refractive index 1.5) and that of a plano-concave lens (refractive index = 1.7) are same. If the curvature of plano-concave lens exactly matches with the curvature of back surface of the biconvex lens, then ratio of radius of curvature of front and back surface of the biconvex lens is:",
+      "opts": [
+        "5:2",
+        "5:12",
+        "12:5",
+        "2:5"
+      ],
+      "ans": "A",
+      "hasImage": false
+    },
+    {
+      "qnum": 98,
+      "type": "MCQ",
+      "text": "A biconvex lens is formed by using two thin planoconvex lenses. The refractive index and radius of curved surfaces are also mentioned in figure (\u03bc=1.5 and \u03bc=1.2, radii 15cm and 12cm). When an object is placed on the left side of lens at a distance of 30 cm from the biconvex lens, the magnification of the image will be:",
+      "opts": [
+        "\u22122",
+        "+2",
+        "+2.5",
+        "\u22122.5"
+      ],
+      "ans": "A",
+      "hasImage": true
+    },
+    {
+      "qnum": 99,
+      "type": "MCQ",
+      "text": "For a transparent prism, if the angle of minimum deviation is equal to its refracting angle, the refractive index n of the prism satisfies:",
+      "opts": [
+        "\u221a2 < n < 2\u221a2",
+        "1 < n < 2",
+        "n \u2265 2",
+        "\u221a2 < n < 2"
+      ],
+      "ans": "D",
+      "hasImage": false
+    },
+    {
+      "qnum": 100,
+      "type": "MCQ",
+      "text": "Find the correct combination of A, B, C and D inputs which can cause the LED to glow. (Circuit: A,B \u2192 NAND gate; C,D \u2192 NOR gate; outputs \u2192 AND gate \u2192 LED)",
+      "opts": [
+        "0100",
+        "0011",
+        "1000",
+        "1101"
+      ],
+      "ans": "D",
+      "hasImage": true
+    },
+    {
+      "qnum": 101,
+      "type": "MCQ",
+      "text": "The correct truth table for the given input data of the following logic gate is: (A,B \u2192 AND then NOT; C,D \u2192 NOR; outputs \u2192 final gate \u2192 Y output)",
+      "opts": [
+        "Table (1)",
+        "Table (2)",
+        "Table (3)",
+        "Table (4)"
+      ],
+      "ans": "B",
+      "hasImage": true
+    },
+    {
+      "qnum": 102,
+      "type": "INTEGER",
+      "text": "Assuming in forward bias condition there is a voltage drop of 0.7 V across a silicon diode, the current through diode D\u2081 in the circuit is _____ mA. (Assume all diodes in the given circuit are identical. R\u2081 = 0.3k\u03a9; 12V source with D\u2081, D\u2082, D\u2083 in series)",
+      "opts": [],
+      "ans": "4",
+      "hasImage": true
+    },
+    {
+      "qnum": 103,
+      "type": "MCQ",
+      "text": "Two p-n junction diodes D\u2081 and D\u2082 are connected as shown in figure. A and B are input signals and C is the output. The given circuit will function as a:",
+      "opts": [
+        "OR Gate",
+        "NOR Gate",
+        "NAND Gate",
+        "AND Gate"
+      ],
+      "ans": "D",
+      "hasImage": true
+    },
+    {
+      "qnum": 104,
+      "type": "MCQ",
+      "text": "A light wave described by E = 60[sin(3 \u00d7 10\u00b9\u2075)t + sin(12 \u00d7 10\u00b9\u2075)t] (in SI units) falls on a metal surface of work function 2.8 eV. The maximum kinetic energy of ejected photoelectron is approximately _____ eV.\n(h = 6.6 \u00d7 10\u207b\u00b3\u2074 J.s and e = 1.6 \u00d7 10\u207b\u00b9\u2079 C)",
+      "opts": [
+        "5.1",
+        "3.8",
+        "6.0",
+        "7.8"
+      ],
+      "ans": "A",
+      "hasImage": false
+    },
+    {
+      "qnum": 105,
+      "type": "MCQ",
+      "text": "If an alpha particle with energy 7.7 MeV is bombarded on a thin gold foil, the closest distance from nucleus it can reach is _____ m.\n(Atomic number of gold = 79 and 1/4\u03c0\u03b5\u2080 = 9 \u00d7 10\u2079 in SI units)",
+      "opts": [
+        "2.95 \u00d7 10\u207b\u00b9\u2074",
+        "2.95 \u00d7 10\u207b\u00b9\u2076",
+        "3.85 \u00d7 10\u207b\u00b9\u2076",
+        "3.85 \u00d7 10\u207b\u00b9\u2074"
+      ],
+      "ans": "A",
+      "hasImage": false
+    },
+    {
+      "qnum": 106,
+      "type": "MCQ",
+      "text": "The energy of an electron in an orbit of the Bohr's atom is \u22120.04E\u2080eV where E\u2080 is the ground state energy. If L is the angular momentum of the electron in this orbit and h is the Planck's constant, then 2\u03c0L/h is:",
+      "opts": [
+        "2",
+        "4",
+        "5",
+        "6"
+      ],
+      "ans": "C",
+      "hasImage": false
+    },
+    {
+      "qnum": 107,
+      "type": "MCQ",
+      "text": "The minimum frequency of photon required to break a particle of mass 15.348 amu into 4\u03b1 particles is _____ kHz.\n[mass of He nucleus = 4.002 amu, 1 amu = 1.66 \u00d7 10\u207b\u00b2\u2077 kg, h = 6.6 \u00d7 10\u207b\u00b3\u2074 J.s and c = 3 \u00d7 10\u2078 m/s]",
+      "opts": [
+        "9 \u00d7 10\u00b9\u2079",
+        "9 \u00d7 10\u00b2\u2070",
+        "14.94 \u00d7 10\u00b2\u2070",
+        "14.94 \u00d7 10\u00b9\u2079"
+      ],
+      "ans": "D",
+      "hasImage": false
+    },
+    {
+      "qnum": 108,
+      "type": "MCQ",
+      "text": "The de Broglie wavelength of an oxygen molecule at 27\u00b0C is x \u00d7 10\u207b\u00b9\u00b2 m. The value of x is:\n(Planck's constant = 6.63 \u00d7 10\u207b\u00b3\u2074 J.s, Boltzmann constant = 1.38 \u00d7 10\u207b\u00b2\u00b3 J/K, mass of oxygen molecule = 5.31 \u00d7 10\u207b\u00b2\u2076 kg)",
+      "opts": [
+        "26",
+        "24",
+        "30",
+        "20"
+      ],
+      "ans": "A",
+      "hasImage": false
+    },
+    {
+      "qnum": 109,
+      "type": "MCQ",
+      "text": "In hydrogen atom spectrum (R \u2192 Rydberg's constant):\nA. the maximum wavelength of the radiation of Lyman series is 4/3R\nB. the Balmer series lies in the visible region of the spectrum\nC. the minimum wavelength of the radiation of Paschen series is 9/R\nD. the minimum wavelength of Lyman series is 5/4R\nChoose the correct answer:",
+      "opts": [
+        "B, D Only",
+        "A, B and C Only",
+        "A, B and D Only",
+        "A, B Only"
+      ],
+      "ans": "B",
+      "hasImage": false
+    },
+    {
+      "qnum": 110,
+      "type": "MCQ",
+      "text": "The binding energy for the following nuclear reactions are expressed in MeV.\n\u2082He\u00b3 + \u2080n\u00b9 \u2192 \u2082He\u2074 + 20 MeV\n\u2082He\u2074 + \u2080n\u00b9 \u2192 \u2082He\u2075 \u2013 0.9 MeV\nIf X\u2083, X\u2084, X\u2085 denote the stability of \u2082He\u00b3, \u2082He\u2074 and \u2082He\u2075, respectively, then the correct order is:",
+      "opts": [
+        "X\u2084 > X\u2085 > X\u2083",
+        "X\u2084 = X\u2085 = X\u2083",
+        "X\u2084 > X\u2085 < X\u2083",
+        "X\u2084 < X\u2085 < X\u2083"
+      ],
+      "ans": "A",
+      "hasImage": false
+    },
+    {
+      "qnum": 111,
+      "type": "MCQ",
+      "text": "A nucleus has mass number \u03b1 and radius R\u03b1. Another nucleus has mass number \u03b2 and radius R\u03b2. If \u03b2 = 8\u03b1 then R\u03b1/R\u03b2 is:",
+      "opts": [
+        "2",
+        "8",
+        "1",
+        "0.5"
+      ],
+      "ans": "D",
+      "hasImage": false
+    }
+  ],
+  "accentColor": "#f59e0b",
+  "order": 3
+}
