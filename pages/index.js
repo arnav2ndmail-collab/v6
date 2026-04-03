@@ -1208,74 +1208,113 @@ const CSS = `
 .ar-max{font-size:.7rem;color:var(--muted);font-weight:400}
 .ar-pct{font-family:'Space Mono',monospace;font-size:.88rem;font-weight:700;min-width:42px;text-align:right}
 .cbt-app{position:fixed;inset:0;z-index:500;background:#ffffff;display:flex;flex-direction:column}
-/* ===== TOP BAR (HEADER) FIX ===== */
+/* ================= FINAL CBT WHITE THEME ================= */
+
+/* MAIN BACKGROUND */
+.cbt-app{
+  background:#f5f5f5 !important;
+  color:#000 !important;
+}
+
+/* FORCE ALL TEXT BLACK */
+.cbt-app *{
+  color:#000 !important;
+}
+
+/* TOP BAR */
 .cbt-top{
   background:#ffffff !important;
-  color:#000 !important;
   border-bottom:1px solid #d1d5db !important;
 }
 
-/* remove dark gradient */
-.cbt-top *{
-  color:#000 !important;
-}
-
-/* timer box */
+/* TIMER */
 .timer{
   background:#ffffff !important;
-  color:#000 !important;
   border:1px solid #ccc !important;
+  color:#000 !important;
 }
 
-/* exit button */
+/* EXIT BUTTON */
 .exit-b{
   background:#ef4444 !important;
   color:#fff !important;
   border:none !important;
 }
 
-/* ===== RIGHT QUESTION PANEL ===== */
+/* QUESTION PANEL + SIDEBAR */
+.cbt-app .qpanel,
+.cbt-app .sb {
+  background:#ffffff !important;
+  border:1px solid #d1d5db !important;
+}
+
+/* QUESTION TEXT */
+.qtext{
+  font-size:18px;
+  font-weight:500;
+  line-height:1.6;
+  color:#000 !important;
+}
+
+/* ================= OPTIONS ================= */
+
+/* ALL OPTIONS */
+.cbt-app .opts .opt{
+  background:#ffffff !important;
+  border:1px solid #ccc !important;
+  color:#000 !important;
+}
+
+/* OPTION TEXT */
+.cbt-app .opts .opt span{
+  color:#000 !important;
+}
+
+/* OPTION LABEL (A B C D) */
+.cbt-app .opts .opt .olbl{
+  color:#000 !important;
+  font-weight:700;
+}
+
+/* SELECTED OPTION */
+.cbt-app .opts .opt.sel{
+  background:#dbeafe !important;
+  border:2px solid #2563eb !important;
+}
+
+/* ================= RIGHT PANEL ================= */
+
 .sb{
   background:#ffffff !important;
   border-left:1px solid #d1d5db !important;
 }
 
-/* navigator title */
-.sb-h{
-  color:#000 !important;
-}
-
-/* legend text */
-.sb-leg{
-  color:#000 !important;
-}
-
-/* ===== QUESTION BOXES ===== */
+/* QUESTION BOXES */
 .qdot{
   background:#e5e7eb !important;
   color:#000 !important;
   border:1px solid #ccc !important;
 }
 
-/* current question */
+/* CURRENT */
 .qdot.cur{
   background:#3b82f6 !important;
   color:#fff !important;
 }
 
-/* answered */
+/* ANSWERED */
 .qdot.ans{
   background:#22c55e !important;
   color:#fff !important;
 }
 
-/* skipped */
+/* SKIPPED */
 .qdot.skp{
   background:#f59e0b !important;
   color:#fff !important;
 }
 
-/* revealed (practice) */
+/* REVIEW */
 .qdot.rev{
   background:#a855f7 !important;
   color:#fff !important;
