@@ -1211,6 +1211,19 @@ const CSS = `
 .cbt-app *{
   color:#000 !important;
 }
+
+.cbt-app .qpanel,
+.cbt-app .sb {
+  background:#ffffff !important;
+  color:#000 !important;
+  border:1px solid #d1d5db;
+}
+
+.qtext{
+  font-size:18px;
+  font-weight:500;
+  line-height:1.6;
+}
 .cbt-top{background:linear-gradient(135deg,#0b1120,#17083a);border-bottom:1px solid var(--border);padding:10px 19px;display:flex;align-items:center;justify-content:space-between;flex-shrink:0;gap:10px}
 .cbt-body{display:flex;flex:1;overflow:hidden;min-height:0}
 .qpanel{flex:1;padding:19px 23px;overflow-y:auto;border-right:1px solid var(--border)}
