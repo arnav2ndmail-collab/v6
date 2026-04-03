@@ -1208,10 +1208,18 @@ const CSS = `
 .ar-max{font-size:.7rem;color:var(--muted);font-weight:400}
 .ar-pct{font-family:'Space Mono',monospace;font-size:.88rem;font-weight:700;min-width:42px;text-align:right}
 .cbt-app{position:fixed;inset:0;z-index:500;background:#ffffff;display:flex;flex-direction:column}
+/* FORCE WHITE CBT */
+.cbt-app{
+  background:#f5f5f5 !important;
+  color:#000 !important;
+}
+
+/* FIX ALL TEXT */
 .cbt-app *{
   color:#000 !important;
 }
 
+/* QUESTION PANEL + SIDEBAR */
 .cbt-app .qpanel,
 .cbt-app .sb {
   background:#ffffff !important;
@@ -1219,10 +1227,32 @@ const CSS = `
   border:1px solid #d1d5db;
 }
 
+/* QUESTION TEXT */
 .qtext{
   font-size:18px;
   font-weight:500;
   line-height:1.6;
+  color:#000 !important;
+}
+
+/* OPTIONS FIX */
+.cbt-app .opt{
+  background:#ffffff !important;
+  color:#000 !important;
+  border:1px solid #ccc !important;
+}
+
+/* SELECTED OPTION */
+.cbt-app .opt.sel{
+  background:#dbeafe !important;
+  border:1px solid #2563eb !important;
+  color:#000 !important;
+}
+
+/* OPTION LABEL A B C D */
+.olbl{
+  color:#000 !important;
+  font-weight:600;
 }
 .cbt-top{background:linear-gradient(135deg,#0b1120,#17083a);border-bottom:1px solid var(--border);padding:10px 19px;display:flex;align-items:center;justify-content:space-between;flex-shrink:0;gap:10px}
 .cbt-body{display:flex;flex:1;overflow:hidden;min-height:0}
