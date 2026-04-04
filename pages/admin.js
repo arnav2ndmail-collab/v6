@@ -105,11 +105,11 @@ export default function AdminPage() {
   // ── Login screen ────────────────────────────────────────────────────────
   if (!in_) return (
     <>
-      <Head><title>TestZyro Admin</title><link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800&display=swap" rel="stylesheet"/></Head>
+      <Head><title>Karle Admin</title><link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800&display=swap" rel="stylesheet"/></Head>
       <style>{`*{margin:0;padding:0;box-sizing:border-box}body{background:#07090f;color:#f1f5f9;font-family:'Outfit',sans-serif;display:flex;align-items:center;justify-content:center;min-height:100vh}.box{background:#141b2d;border:1px solid #1e2d45;border-radius:16px;padding:36px;width:360px;display:flex;flex-direction:column;gap:12px}.title{font-size:1.4rem;font-weight:800}.sub{font-size:.78rem;color:#64748b;margin-top:-6px}.f{width:100%;background:#111827;border:1.5px solid #243450;border-radius:8px;padding:10px 13px;color:#f1f5f9;font-family:'Outfit',sans-serif;font-size:.85rem;outline:none}.b{background:linear-gradient(135deg,#6366f1,#8b5cf6);color:#fff;border:none;padding:12px;border-radius:9px;font-family:'Outfit',sans-serif;font-weight:700;cursor:pointer;font-size:.9rem}.e{color:#f87171;font-size:.76rem;background:rgba(248,113,113,.07);border:1px solid rgba(248,113,113,.2);padding:8px 12px;border-radius:7px}`}</style>
       <div className="box">
         <div className="title">🔐 Admin Login</div>
-        <div className="sub">TestZyro Control Panel</div>
+        <div className="sub">Karle Control Panel</div>
         <input className="f" type="email" placeholder="Admin email" value={email} onChange={e=>setEmail(e.target.value)}/>
         <input className="f" type="password" placeholder="Password" value={pass} onChange={e=>setPass(e.target.value)} onKeyDown={e=>e.key==='Enter'&&login()}/>
         {err && <div className="e">{err}</div>}
@@ -123,7 +123,7 @@ export default function AdminPage() {
   // ── Admin panel ──────────────────────────────────────────────────────────
   return (
     <>
-      <Head><title>TestZyro Admin</title><link href="https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=Outfit:wght@300;400;500;600;700;800&display=swap" rel="stylesheet"/></Head>
+      <Head><title>Karle Admin</title><link href="https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=Outfit:wght@300;400;500;600;700;800&display=swap" rel="stylesheet"/></Head>
       <style>{CSS}</style>
       <div className="adm-bg"/>
 
@@ -131,7 +131,7 @@ export default function AdminPage() {
         <div style={{display:'flex',alignItems:'center',gap:10}}>
           <div className="adm-logo">TZ</div>
           <div>
-            <div style={{fontWeight:800,fontSize:'1rem'}}>TestZyro <span style={{background:'var(--grad)',WebkitBackgroundClip:'text',WebkitTextFillColor:'transparent'}}>Admin</span></div>
+            <div style={{fontWeight:800,fontSize:'1rem'}}>Karle <span style={{background:'var(--grad)',WebkitBackgroundClip:'text',WebkitTextFillColor:'transparent'}}>Admin</span></div>
             <div style={{fontSize:'.65rem',color:'var(--muted)',fontFamily:'Space Mono,monospace'}}>
               {stats ? `${stats.tests} tests · ${stats.users} users · ${stats.attempts} attempts · DB: ${stats.dbStatus||'?'}` : 'Loading…'}
             </div>

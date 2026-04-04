@@ -1,12 +1,12 @@
-# TestZyro v3 — CBT Platform
+# Karle v3 — CBT Platform
 
 ## 🚀 Deploy to Vercel (5 min)
 
 ```bash
 # 1. Unzip & push to GitHub
-unzip testzyro_v3.zip && mv tz3 testzyro && cd testzyro
-git init && git add . && git commit -m "TestZyro v3"
-git remote add origin https://github.com/YOU/testzyro.git
+unzip Karle_v3.zip && mv tz3 Karle && cd Karle
+git init && git add . && git commit -m "Karle v3"
+git remote add origin https://github.com/YOU/Karle.git
 git push -u origin main
 
 # 2. Import at vercel.com → New Project → Deploy
@@ -41,7 +41,7 @@ Visit `/admin` on your site.
 ## 📁 Folder Structure
 
 ```
-testzyro/
+Karle/
 ├── pages/
 │   ├── index.js              ← Main app
 │   ├── admin.js              ← Admin panel at /admin

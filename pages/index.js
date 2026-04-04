@@ -20,7 +20,7 @@ const authFetch = async (url, opts = {}) => {
   return res
 }
 
-export default function TestZyro() {
+export default function Karle() {
   // ── Nav ──
   const [page, setPage] = useState('library')
 
@@ -595,7 +595,7 @@ RULES: Never shorten question text. Full options always. Skip headers/instructio
   return (
     <>
       <Head>
-        <title>TestZyro — CBT Platform</title>
+        <title>Karle — CBT Platform</title>
         <meta name="description" content="JEE NEET CBT practice platform"/>
         <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>⚡</text></svg>"/>
         <link href="https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=Outfit:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet"/>
@@ -627,7 +627,7 @@ RULES: Never shorten question text. Full options always. Skip headers/instructio
       {showAuth && (
         <div className="overlay" onClick={()=>setShowAuth(false)}>
           <div className="modal" onClick={e=>e.stopPropagation()}>
-            <div className="modal-title">{authMode==='login'?'👋 Welcome Back':'🚀 Join TestZyro'}</div>
+            <div className="modal-title">{authMode==='login'?'👋 Welcome Back':'🚀 Join Karle'}</div>
             <div className="modal-sub">{authMode==='login'?'Sign in to sync results across devices':'No email. Instant signup. Just username & password.'}</div>
             {!dbAvailable && <div style={{background:'rgba(251,146,60,.07)',border:'1px solid rgba(251,146,60,.2)',borderRadius:8,padding:'8px 11px',fontSize:'.72rem',color:'var(--orange)',marginBottom:8}}>⚠️ Database not set up yet. Add Upstash Redis env vars to enable accounts — see README.</div>}
             <input className="field" placeholder="Username" value={aUser} onChange={e=>setAUser(e.target.value)} autoFocus/>
@@ -773,7 +773,7 @@ RULES: Never shorten question text. Full options always. Skip headers/instructio
           <DropZone multi onFiles={onJsonFiles}>
             <div className="up-icon">📋</div>
             <div className="up-title">Drop .json test files here</div>
-            <div className="up-sub">TestZyro format JSON files</div>
+            <div className="up-sub">Karle format JSON files</div>
             <label htmlFor="json-inp" className="btn-grad" style={{cursor:'pointer',display:'inline-block',padding:'9px 24px'}}>Choose JSON File(s)</label>
             <input id="json-inp" type="file" accept=".json" multiple style={{display:'none'}} onChange={e=>e.target.files.length&&onJsonFiles(Array.from(e.target.files))}/>
           </DropZone>
